@@ -1,0 +1,49 @@
+app.py:index: Request: Index page loaded.
+app.py:chat: Request: User query: 'hey whats up', AI-detected intent: general_faq
+app.py:chat: Request: Bot response: Ah, just shelving some new arrivals and helping fellow book lovers like you! What can I assist you with today—perhaps finding a book or checking on an order?
+app.py:chat: Request: User query: 'want to read harry potter', AI-detected intent: recommend_books
+app.py:index: Request: Index page loaded.
+app.py:chat: Request: User query: 'hey whats up', AI-detected intent: general_faq
+app.py:chat: Request: Bot response: Ah, just shelving some new arrivals and helping fellow book lovers like you find their next great read! What can I assist you with today at Bookswagon?
+app.py:chat: Request: User query: 'what are you doing', AI-detected intent: unknown
+app.py:chat: Request: Bot response: Ah, just diving into the endless shelves of Bookswagon's digital library—organizing knowledge, whispering with book spines, and waiting to help you find your next literary adventure. Speaking of which, how may I assist you with Bookswagon today?
+app.py:chat: Request: User query: 'Hi', AI-detected intent: general_faq
+app.py:chat: Request: Bot response: Hello! Welcome to Bookswagon. How can I assist you with your book-related queries today?
+app.py:chat: Request: User query: 'Hi', AI-detected intent: general_faq
+app.py:chat: Request: Bot response: Hello! I'm Vidya, your friendly bookstore assistant. I'm always happy to help with any questions you have about Bookswagon - whether it's about our books, orders, or services. What can I assist you with today?
+app.py:chat: Request: User query: 'my name is', AI-detected intent: general_faq
+app.py:chat: Request: Bot response: Hello! It's nice to meet you. As Vidya, your bookstore assistant, I'm here to help with any questions you have about Bookswagon's services, policies, or your orders. If you'd like assistance with anything related to books or your account, feel free to ask. 
+
+Is there something specific you'd like help with today?
+app.py:chat: Request: User query: 'show me new arrivals', AI-detected intent: recommend_books
+app.py:chat: Request: Bot response: Oh, I'd love to show you our new arrivals! We just got some wonderful fresh titles in, and I'm sure there's something here you'll absolutely adore.
+
+1. Title: Too Good to Be True : A smart, funny will-they-wonâ€™t-they romance by mostlysane
+   Author: Prajakta Koli
+   Price: N/A
+   Link: www.bookswagon.com/book/too-good-true-prajakta-koli/9789365693393
+
+2. Title: King of Envy
+   Author: Ana Huang
+   Price: N/A
+   Link: www.bookswagon.com/book/king-envy-ana-huang/9780349436395
+
+3. Title: Great Big Beautiful Life
+   Author: Emily Henry
+   Price: N/A
+   Link: www.bookswagon.com/book/untitled-by-anonymous-author-144452/9780241740613
+
+4. Title: Onyx Storm
+   Author: Rebecca Yarros
+   Price: N/A
+   Link: www.bookswagon.com/book/untitled-book-rebecca-yarros/9780349437064
+
+5. Title: Onyx Storm
+   Author: Rebecca Yarros
+   Price: N/A
+   Link: www.bookswagon.com/book/onyx-storm-rebecca-yarros/9780349437071
+
+6. Title: Sunrise on the Reaping (A Hunger Games Novel)
+   Author: Suzanne Collins 
+   Price: N/A
+   Link: www.bookswagon.com/book/sunrise-reaping-a-hunger-games/9781546171461
